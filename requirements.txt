@@ -1,0 +1,5 @@
+In this application, it requires you to have these
+1.pandas
+2.matplotlib
+3.tkinter
+4.time
